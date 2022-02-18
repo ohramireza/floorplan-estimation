@@ -7,5 +7,4 @@ Created by Oscar H. Ramírez Agudelo and Nathan Grin for the 29th IEEE Internati
 # Introduction
 This repository is code release for our paper (here).
 
-# To Do:
-add repository.
+...
